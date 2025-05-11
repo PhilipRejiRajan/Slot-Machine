@@ -11,7 +11,7 @@
 
 ```
 cd Slot Machine
-node project.js
+npm start
 ```
 
 ### Output:
