@@ -46,11 +46,11 @@ Do you want to play again (y/n)? n
  PASS  ./gameLogic.test.js
   Game Logic
     √ transpose() should correctly transpose a 2D array (4 ms)
-    √ getWinnings() should return correct winnings for matching row (1 ms)                               
-    √ spin() should return correct number of reels and symbols (2 ms)                                    
-                                                                                                         
-Test Suites: 1 passed, 1 total                                                                           
-Tests:       3 passed, 3 total                                                                           
+    √ getWinnings() should return correct winnings for matching row (1 ms)
+    √ spin() should return correct number of reels and symbols (2 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       3 passed, 3 total
 Snapshots:   0 total
 Time:        0.624 s, estimated 1 s
 Ran all test suites.
